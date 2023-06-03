@@ -1,6 +1,28 @@
+.header {
+  padding: 4.8rem 0;
+}
 
 .header__container {
-    display: flex;
-    align-items: center;
-    
+  display: flex;
+  align-items: center;
+}
+
+.site__logo {
+  padding-right: 4.54rem;
+}
+
+.site__logo__image {
+}
+
+.header__registration {
+  display: flex;
+  align-items: center;
+  gap: 3.7rem;
+}
+
+.login {
+}
+.header__btn {
+}
+.btn {
 }
