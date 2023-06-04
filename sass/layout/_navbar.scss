@@ -8,7 +8,9 @@
   display: flex;
   gap: 3rem;
 }
-.header__item {
-}
-.header__link {
+
+.header__burger {
+  display: none;
+  background: none;
+  cursor: pointer;
 }
